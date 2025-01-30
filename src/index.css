@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Pochaevsk';
+  src: url('/assets/Pochaevsk.ttf') format('truetype');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-pochaevsk {
+  font-family: 'Pochaevsk', serif;
+}
